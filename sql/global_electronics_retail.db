@@ -1,0 +1,6 @@
+connection = sqlite3.connect("global_electronics.db")
+
+pd.read_sql(
+    "SELECT name FROM sqlite_master WHERE type='table';",
+    connection
+)
