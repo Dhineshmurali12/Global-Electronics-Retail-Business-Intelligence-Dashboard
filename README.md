@@ -248,45 +248,44 @@ The interactive filtering capabilities allow users to analyze business performan
 - Store
 
 ---
+
 ## 📂 Project Structure
 
 ```text
 GLOBAL ELECTRONICS RETAIL BUSINESS INTELLIGENCE DASHBOARD/
 │
-├── data/
-│   ├── Raw datasets
-│   └── Cleaned datasets
-│
 ├── dashboard_images/
-│   └── Dashboard screenshots
+│   ├── Business Performance Analysis.png
+│   ├── Customer Insights.png
+│   ├── Executive Sales Overview.png
+│   ├── Geographical Sales.png
+│   ├── home.png
+│   ├── Product Performance.png
+│   └── Sales Performance Analysis.png
+│
+├── data/
+│   └── Retail datasets
 │
 ├── docs/
 │   └── Project documentation
 │
 ├── Notebooks/
-│   ├── 01_Data_Understanding.ipynb
-│   ├── 02_Data_Cleaning.ipynb
-│   └── 03_Exploratory_Data_Analysis.ipynb
+│   └── Data analysis notebooks
 │
 ├── powerbi/
 │   └── Global_Electronics_Retail_BI_Dashboard.pbix
 │
 ├── reports/
-│   └── Project reports
+│   └── Global_Electronics_Retail_BI_Dashboard.pdf
 │
 ├── sql/
-│   ├── 01_Create_Database.sql
-│   ├── 02_Business_Queries.sql
-│   ├── 03_Run_Business_Queries.ipynb
-│   └── 04_Advanced_SQL_Analysis.ipynb
+│   └── SQL analysis scripts
 │
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
 └── .gitignore
 ```
-
----
 
 ## 🚀 How to Use
 
