@@ -49,3 +49,31 @@ DAX Measures
 Interactive Dashboards
       ↓
 Business Insights
+
+---
+
+## 📊 Dashboard Preview
+
+### Executive Sales Overview
+
+![Executive Sales Overview](dashboard_images/Executive%20Sales%20Overview.png)
+
+### Customer Insights
+
+![Customer Insights](dashboard_images/Customer%20Insights.png)
+
+### Product Performance
+
+![Product Performance](dashboard_images/Product%20Performance.png)
+
+### Geographical Sales
+
+![Geographical Sales](dashboard_images/Geographical%20Sales.png)
+
+### Sales Performance Analysis
+
+![Sales Performance Analysis](dashboard_images/Sales%20Performance%20Analysis.png)
+
+### Business Performance Analysis
+
+![Business Performance Analysis](dashboard_images/Business%20Performance%20Analysis.png)
