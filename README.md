@@ -77,3 +77,17 @@ Business Insights
 ### Business Performance Analysis
 
 ![Business Performance Analysis](dashboard_images/Business%20Performance%20Analysis.png)
+
+## 📑 Dashboard Pages
+
+The Power BI report contains **7 interactive pages**, designed for executive monitoring, customer analysis, product analysis, geographical exploration, and detailed business performance evaluation.
+
+| Page | Purpose | Key Analysis |
+|------|---------|--------------|
+| **1. Home / Navigation** | Report landing page and navigation hub | Page navigation, report UX, navigation buttons |
+| **2. Executive Sales Overview** | High-level business performance | Revenue, orders, customers, average order value, sales trends |
+| **3. Customer Insights** | Customer purchasing behavior | Customer distribution, purchasing patterns, revenue contribution |
+| **4. Product Performance** | Product, category, and brand analysis | Top products, categories, brands, revenue trends |
+| **5. Geographical Sales** | Geographic business performance | Country, continent, customer, and store performance |
+| **6. Sales Performance Analysis** | Detailed sales trend analysis | Monthly and quarterly revenue, category and brand trends, growth |
+| **7. Business Performance Analysis** | Advanced business performance analysis | Category performance, brand performance, yearly growth, business trends |
